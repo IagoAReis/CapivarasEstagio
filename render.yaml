@@ -3,7 +3,7 @@ services:
     plan: free
     name: capivaras-backend
     runtime: node
-    repo: https://github.com/pedrofbr0/CapivarasEstagio.git
+    repo: https://github.com/IagoAReis/CapivarasEstagio.git
     rootDir: capivarasBack
     buildCommand: "npm install"
     startCommand: "npm start"
@@ -13,7 +13,7 @@ services:
     plan: free
     name: capivaras-frontend
     runtime: node
-    repo: https://github.com/pedrofbr0/CapivarasEstagio.git
+    repo: https://github.com/IagoAReis/CapivarasEstagio.git
     rootDir: capivarasfront
     buildCommand: "npm install --include=dev && npm run build"
     startCommand: "npm run serve"
