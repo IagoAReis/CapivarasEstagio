@@ -43,9 +43,7 @@ Esta aplicação requer a instalação do Node.js na versão 18 para funcionar c
  1. Acesse o link http://localhost:8080/ apos configurar o back e o front para ter acesso a pagina criada.
 
 ### URL do projeto em nuvem
-:hammer: **EM CONSTRUÇAO** :hammer:
-https://capivaras-frontend.onrender.com
-
+https://capivaras-frontend-uys3.onrender.com
 ### Observação
 E possivel rodar no **Docker** Utilizando o comando:
     docker-compose up --build
